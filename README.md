@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 👋 Hi, I’m Mounir
+- 👀 I’m a software engineer , IA and data analytics enthusiast
+- 💬 I'm a master's degree in Intelligent Computing Systems student
+- 🌱 I’m currently learning more about IA
+- 🤔 I’m looking to collaborate on Some IA projects 
+- ⚡ Fun fact: I'm a web developer too 🐱‍👤💖!!! So need a website? reach me
+- 📫 How to reach me : mllekhemissimaroua@gmail.com
+
 
 <!--
 **lolifmaster/Lolifmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
