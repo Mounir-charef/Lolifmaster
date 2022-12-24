@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning more about IA
 - 🤔 I’m looking to collaborate on Some IA projects 
 - ⚡ Fun fact: I'm a web developer too 🐱‍👤💖!!! So need a website? reach me
-- 📫 How to reach me : mllekhemissimaroua@gmail.com
+- 📫 How to reach me : charefmounir37@gmail.com
 
 
 <!--
