@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 👋 Hi, I’m Mounir
-- 👀 I’m a software engineer , IA and data analytics enthusiast
+- 👀 I’m a software engineer , AI and data analytics enthusiast
 - 💬 I'm a master's degree in Intelligent Computing Systems student
-- 🌱 I’m currently learning more about IA
-- 🤔 I’m looking to collaborate on Some IA projects 
+- 🌱 I’m currently learning more about AI
+- 🤔 I’m looking to collaborate on Some AI projects 
 - ⚡ Fun fact: I'm a web developer too 🐱‍👤💖!!! So need a website? reach me
 - 📫 How to reach me : charefmounir37@gmail.com
 
