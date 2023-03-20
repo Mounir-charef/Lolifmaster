@@ -1,10 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Mounir Charef</h1>
 <h3 align="center">👀 A computer science student, web developer and AI and data science enthusiast.</h3>
+
+
 - 💬 I'm a master's degree in Intelligent Computing Systems student
+
 - 🌱 I’m currently learning more about AI
+
 - 🤔 I’m looking to collaborate on Some AI projects 
+
 - 🔭 I’m currently working on web development 🐱‍💻💖!!! So need a website? reach me
+
 - 📫 How to reach me : charefmounir37@gmail.com || mounir.charef@etu.usthb.dz
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mounir-charef-3397b1229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mounir Charef" height="30" width="40" /></a>
