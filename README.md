@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mounir Charef</h1>
+<h1 align="center">Hello there 👋, I'm Mounir Charef</h1>
 <h3 align="center">👀 A computer science student, web developer and AI and data science enthusiast.</h3>
 
 
