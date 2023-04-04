@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : charefmounir37@gmail.com || mounir.charef@etu.usthb.dz
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mounir-charef-3397b1229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mounir Charef" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Chrf.Mounir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Charef Mounir" height="30" width="40" /></a>
