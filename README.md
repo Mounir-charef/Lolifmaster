@@ -2,7 +2,7 @@
 <h3 align="center">👀 A computer science student, web developer and AI and data science enthusiast.</h3>
 
 
-- 💬 I'm a master's degree in Intelligent Computing Systems student
+- 💬 I'm a master's degree in student Intelligent Computing Systems
 
 - 🌱 I’m currently learning more about AI
 
