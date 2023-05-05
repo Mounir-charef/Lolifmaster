@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lolifmaster&layout=compact&theme=tokyonight)](https://github.com/ilieschibane/github-readme-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Lolifmaster&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolifmaster)](https://github.com/anuraghazra/github-readme-stats)
+[![Mounir's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolifmaster&show_icons=true&theme=radical)
