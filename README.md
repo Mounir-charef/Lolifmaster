@@ -4,9 +4,9 @@ My name is Mounir Charef, and I am currently pursuing a Master's degree in Artif
 
 ## My Skills 🚀
 
-- Programming languages: Python 🐍, Java ☕, JavaScript , TypeScript 
+- Programming languages: Python 🐍, Java , JavaScript , TypeScript 
 - Web development: React ⚛️, Next.js , Django 
-- Database: MongoDB 🍃, Mysql 🐬, Oracle 🏺
+- Database: MongoDB 🍃, Mysql 🐬, Oracle 
 - Data science and AI: NumPy 🧮, Pandas , Matplotlib 📊, TensorFlow 
 
 ## My Latest Project 💻
