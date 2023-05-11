@@ -30,8 +30,8 @@ My name is Mounir Charef, and I am currently pursuing a Master's degree in Artif
 ## Contact Me
 
 You can reach out to me through the following channels:
-<p align="center">
-  <a href="https://www.linkedin.com/in/mounir-charef-3397b1229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/lolifmaster/lolifmaster/main/icons/linkedin.png" alt="Mounir Charef" height="30" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/mounir-charef-3397b1229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mounir Charef" height="30" /></a>
   <a href="https://www.facebook.com/Chrf.Mounir" target="blank"><img align="center" src="https://raw.githubusercontent.com/lolifmaster/lolifmaster/main/icons/facebook.png" alt="Charef Mounir" height="30" /></a>
   <a href="https://www.instagram.com/chrf_mounir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/lolifmaster/lolifmaster/main/icons/instagram.png" alt="_chrf.mounir_" height="30" /></a>
 </p>
