@@ -31,7 +31,7 @@ My name is Mounir Charef, and I am currently pursuing a Master's degree in Artif
 
 You can reach out to me through the following channels:
 <p align="left" style="color: white">
-  <a href="https://www.linkedin.com/in/mounir-charef-3397b1229/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_174857" alt="Mounir Charef" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mounir-charef-3397b1229/" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="Mounir Charef" height="30" width="40" /></a>
   <a href="https://www.facebook.com/Chrf.Mounir" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/facebook_5968764?term=facebook&page=1&position=8&origin=search&related_id=5968764" alt="Charef Mounir" height="30" width="40" /></a>
   <a href="https://www.instagram.com/chrf_mounir/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=2&origin=search&related_id=174855" alt="_chrf.mounir_" height="30" width="40" /></a>
 </p>
