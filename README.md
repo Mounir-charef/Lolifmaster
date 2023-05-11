@@ -27,6 +27,17 @@ My name is Mounir Charef, and I am currently pursuing a Master's degree in Artif
 - Web development 🔗
 - Open source software 🆓
 
+## Contact Me
+
+You can reach out to me through the following channels:
+
+<h3 align="left">Contact me: </h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mounir-charef-3397b1229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mounir Charef" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/Chrf.Mounir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Charef Mounir" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/chrf_mounir/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_chrf.mounir_" height="30" width="40" /></a>
+</p>
+
 <!-- custom card for my profile stats -->
 <!-- custom card for my top languages used in GitHub -->
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolifmaster&show_icons=true&theme=github_dark&hide_border=true&border_radius=20)](https://github.com/lolifmaster?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolifmaster&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark&hide_border=true&border_radius=20)](https://github.com/lolifmaster?tab=repositories)
