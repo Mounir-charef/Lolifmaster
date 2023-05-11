@@ -1,23 +1,28 @@
-<h1 align="center">Hello there 👋, I'm Mounir Charef</h1>
-<h3 align="center">👀 A computer science student, web developer and AI and data science enthusiast.</h3>
+# Hi there! 👋
 
+My name is Mounir Charef, and I am currently pursuing a Master's degree in Artificial Intelligence. I am also a web developer, with experience in React, Next.js, and Django. Additionally, I am a certified MongoDB developer, and I am very interested in data science and AI, which led me to take a machine learning and deep learning specialization on Coursera.
 
-- 💬 I'm a master's degree in student Intelligent Computing Systems
+## My Skills
 
-- 🌱 I’m currently learning more about AI
+- Programming languages: Python, Java, JavaScript, TypeScript
+- Web development: React, Next.js, Django
+- Database: MongoDB, Mysql, Oracle
+- Data science and AI: NumPy, Pandas, Matplotlib, TensorFlow..
 
-- 🤔 I’m looking to collaborate on Some AI projects 
+## My Latest Project
 
-- 🔭 I’m currently working on web development 🐱‍💻💖!!! So need a website? reach me
+- E-shop : an e-commerce full-stack website using react with django-rest-framework (DRF).  
 
-- 📫 How to reach me : charefmounir37@gmail.com || mounir.charef@etu.usthb.dz
+## My Certifications
 
-<h3 align="left">Contact me: </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mounir-charef-3397b1229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mounir Charef" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Chrf.Mounir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Charef Mounir" height="30" width="40" /></a>
-<a href="https://www.instagram.com/chrf_mounir/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_chrf.mounir_" height="30" width="40" /></a>
-</p>
+- Certified MongoDB Developer Associate
+- DeepLearningAi machine learning certification
+- DeepLearningAi deep learning certification
+- IBM professional backend certification (!loading)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolifmaster&show_icons=true&theme=radical)
-![Mounir's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolifmaster&show_icons=true&theme=radical)
+## My Interests
+
+- Data science and AI
+- Web development
+- Open source software
+
