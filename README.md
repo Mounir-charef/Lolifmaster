@@ -27,8 +27,6 @@ My name is Mounir Charef, and I am currently pursuing a Master's degree in Artif
 - Open source software
 
 <!-- custom card for my profile stats -->
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolifmaster&show_icons=true&theme=github_dark&hide_border=true&border_radius=20)](https://github.com/lolifmaster?tab=repositories)
-
 <!-- custom card for my top languages used in GitHub -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolifmaster&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark&hide_border=true&border_radius=20)](https://github.com/lolifmaster?tab=repositories)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolifmaster&show_icons=true&theme=github_dark&hide_border=true&border_radius=20)](https://github.com/lolifmaster?tab=repositories)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolifmaster&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark&hide_border=true&border_radius=20)](https://github.com/lolifmaster?tab=repositories)
 
