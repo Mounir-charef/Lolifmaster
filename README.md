@@ -11,9 +11,6 @@ My name is Mounir Charef, and I am currently pursuing a Master's degree in Artif
 
 ## My Latest Project 💻
 - Currently working at <a href="https://itexc-agency.com/" target="blank">Itexc Agency</a> on Vitolker translation platform
- 
-<! --- E-shop : an e-commerce full-stack website using react with django-rest-framework (DRF). 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolifmaster&repo=E-shop&show_icons=true&theme=github_dark&hide_border=true&border_radius=20&show_owner=true)](https://github.com/lolifmaster/E-shop)  --->
 
 ## My Certifications 🎓
 
