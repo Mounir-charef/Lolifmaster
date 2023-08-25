@@ -16,6 +16,7 @@ My name is Mounir Charef, and I am currently pursuing a Master's degree in Artif
 
 - Certified MongoDB Developer Associate 🍃
 - DeepLearningAi machine learning certification 🤖
+- Mathematics for Machine Learning and Data Science Specialization ➗
 - DeepLearningAi deep learning certification 🧠
 - IBM professional backend certification  (!!loading)
 
