@@ -41,6 +41,6 @@ You can reach out to me through the following channels:
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolifmaster&show_icons=true&theme=github_dark&hide_border=true&border_radius=20)](https://github.com/lolifmaster?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolifmaster&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark&hide_border=true&border_radius=20)](https://github.com/lolifmaster?tab=repositories)
 -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lolifmaster&show_icons=true&theme=gotham&hide_border=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lolifmaster&theme=gotham&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=lolifmaster&show_icons=true&theme=github_dark&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lolifmaster&theme=github_dark&hide_border=true" width="400">
 </div>
