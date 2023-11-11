@@ -42,5 +42,5 @@ You can reach out to me through the following channels:
 -->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lolifmaster&show_icons=true&theme=github_dark&hide_border=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lolifmaster&theme=github_dark&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lolifmaster&theme=tokyonight-duo&hide_border=true" width="400">
 </div>
