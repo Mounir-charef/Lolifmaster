@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Mounir Charef, and I am currently pursuing a Master's degree in Artificial Intelligence. I am also a web developer, with experience in React, Next.js, and Django. Additionally, I am a certified MongoDB developer, and I am very interested in data science and AI, which led me to take a machine learning and deep learning specialization on Coursera.
+My name is Mounir Charef, and I am currently pursuing a Master's degree in Artificial Intelligence. I am also a web developer, with experience in React, Next.js, and Django. Additionally, I am a certified MongoDB developer, and I am very interested in data science and AI technologies and latest updates.
 
 ## My Skills 🚀
 
